@@ -1,0 +1,9 @@
+important_chapters_to_refer:
+- 65_Understanding control flow: to undestand Go routines, compilers, stack & heap memory in brief
+- section_2: To get better understanding of ASCII, UniCode
+- section_8 : If required to understand go mod & dependency management
+- section_10: Housekeeping
+- section_13_105_107: Slice internals. 107 is very important
+- go.dev/blog/slices-intro
+- Everything in go is "pass_by_value"
+
